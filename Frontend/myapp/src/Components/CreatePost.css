@@ -1,0 +1,70 @@
+.create-post-container {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .create-post-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .post-textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    margin: 10px 0;
+  }
+  
+  .submit-button {
+    background-color: #4ba753;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+  }
+  
+  .user-name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .linkedin-link {
+    font-size: 16px;
+  }
+  
+  .linkedin-link a {
+    color: #4ba753;
+    text-decoration: none;
+  }
+  
+  .linkedin-link a:hover {
+    text-decoration: underline;
+  }
+  
